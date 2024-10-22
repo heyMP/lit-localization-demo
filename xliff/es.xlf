@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="es" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="scd902c4336626814">
+  <source>count is</source>
+  <target>contar es</target>
+</trans-unit>
+<trans-unit id="docs-hint">
+  <source>Click on the Vite and Lit logos to learn more <x id="0" equiv-text="${this.count}"/></source>
+  <target>Haga clic en los logotipos de Vite y Lit para obtener más información <x id="0" equiv-text="${this.count}"/>.</target>
+</trans-unit>
+<trans-unit id="s73c1c5e257be2bdb">
+  <source>Click on the Vite and Lit logos to learn more</source>
+  <target>Haga clic en los logotipos de Vite y Lit para obtener más información.</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
